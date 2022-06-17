@@ -14,9 +14,9 @@ Programming languages:
 - Python 🐍
 
 Game Engines:
+- NovusCore
 - Unreal Engine
 - Unity3D
-- NovusCore
 - Bevy
 
 Other:
