@@ -1,23 +1,22 @@
 ### Welcome to the Grim
 
 - 🎮 Game Engine & Game Development enthusiast
-- 🔘 UI Framework dev [NovusCore](https://github.com/novuscore/)
-- ⛏ Developer of Minecraft Mods ([Stoneholm](https://github.com/TheGrimsey/Stoneholm/), [Transportables](https://github.com/TheGrimsey/Stonevaults), [Statues](https://github.com/TheGrimsey/Statues), [Stonevaults](https://github.com/TheGrimsey/Stonevaults))
+- 🔘 Maintainer of [Oxidized Navigation]([https://github.com/novuscore/](https://github.com/TheGrimsey/oxidized_navigation/)), a runtime nav-mesh generation plugin for Bevy.
+- ⛏ Developer of Minecraft Mods ([Stoneholm](https://github.com/TheGrimsey/Stoneholm/), [Transportables](https://github.com/TheGrimsey/Transportables), [Statues](https://github.com/TheGrimsey/Statues).
 - 🎮 Fan of Sandboxes, RPGs, and all manner of worlds.
 
 ### Experience:
 Programming languages:
+- Rust 🦀
 - C++
 - C#
 - Java
-- Rust 🦀
 - Python 🐍
 
 Game Engines:
-- NovusCore
+- Bevy
 - Unreal Engine
 - Unity3D
-- Bevy
 
 Other:
 - Blender
